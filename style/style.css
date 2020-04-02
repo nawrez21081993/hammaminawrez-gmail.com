@@ -1,0 +1,67 @@
+body{
+	background-image: url(../res/back.jpg);
+	background-repeat: no-repeat;
+	background-size: cover; 
+	background-attachment: fixed;
+	
+	/*background-image:url(../res/cap1.png);*/
+}
+
+h1{
+	font-family: "Tangerine", serif !important;
+}
+
+a{
+text-decoration: none !important;
+
+}
+
+/*--------------------about-------------------------------*/
+
+#skills:hover{
+color: white !important;
+border-top-left-radius: 20px;
+border-bottom-right-radius: 20px;
+background-color: #61bab7;
+}
+#langue:hover{
+color: white !important;
+border-top-left-radius: 20px;
+border-bottom-right-radius: 20px;
+background-color: #61bab7;
+}
+#passion:hover{
+color: white !important;
+border-top-left-radius: 20px;
+border-bottom-right-radius: 20px;
+background-color: #61bab7;
+}
+
+h2:hover{
+color: white !important;
+border-top-left-radius: 20px;
+border-bottom-right-radius: 20px;
+background-color: #61bab7;
+}
+
+
+
+/*----------------quote-------------------*/
+.blockquote-custom {
+  position: relative;
+  font-size: 1.1rem;
+}
+
+.blockquote-custom-icon {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: -25px;
+  left: 50px;
+}
+/*------------------------------------------------*/
+
